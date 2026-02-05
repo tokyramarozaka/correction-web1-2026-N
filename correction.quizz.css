@@ -15,12 +15,11 @@ h2 {
 }
 
 .container {
-    padding: 1rem;
+    padding: 2rem;
     width: 50vw;
     margin-inline: auto;
     border-radius: 10px;
     box-shadow: 0 0 3px black;
-    margin-block: 2rem;
 }
 
 .grid {
